@@ -1,3 +1,4 @@
+**Google Collab link** : https://colab.research.google.com/drive/1pqdPamU064LwgrWZlJLQC0m2zq9gUZ4G#scrollTo=Xn5RZS5f-xas
 HR Performance Prediction Project
 This project aims to predict employee performance scores based on a Human Resources dataset. The dataset contains various employee-related features such as marital status, salary, special projects count, engagement survey results, and more. The goal is to develop machine learning models that can accurately predict an employee's performance score using these attributes.
 
